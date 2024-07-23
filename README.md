@@ -24,4 +24,4 @@
 <br>
 <br>
 <br>
-<img src="https://github.com/fernandochaggas/Projeto-Convert-Money/assets/160587888/4786e3e1-dc37-4c34-980a-90c4b69da3ea">
+
